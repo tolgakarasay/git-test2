@@ -1,0 +1,22 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgakarasay/git-test2.git"
+  },
+  "author": "Tolga Karasay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolgakarasay/git-test2/issues"
+  },
+  "homepage": "https://github.com/tolgakarasay/git-test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
